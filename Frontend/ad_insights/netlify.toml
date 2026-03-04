@@ -1,0 +1,4 @@
+[build]
+base = "frontend/ad_insights"
+command = "npm run build"
+publish = "dist"
