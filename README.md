@@ -1,4 +1,5 @@
 AdInsight – Marketing Analytics Dashboard
+Project Type: Data Analytics + Data Visualization Dashboard
 
 AdInsight is a data analytics dashboard that analyzes global digital advertising performance across multiple platforms, industries, campaign types, and countries.
 The project combines Python data analysis with a React dashboard to transform raw advertising data into meaningful insights.
@@ -102,12 +103,14 @@ Example insights derived from the dataset:
 ```
 adinsight-dashboard
 │
-├── analysis.ipynb           # Data analysis in Python
+├── Analysis
+|    └──  analysis.ipynb  # Data analysis in Python
+├── Dataset
+|    └──  global_ads_performance_dataset.csv
 │
 ├── Frontend
 │   └── ad_insights
 │        ├── src
-│        │   ├── components
 │        │   └── assets/data
 │        ├── package.json
 │        └── vite.config.js
@@ -123,7 +126,7 @@ Dataset used:
 
 Global Ads Performance Dataset
 Source: Kaggle
-
+link: https://www.kaggle.com/datasets/nudratabbas/global-ads-performance-google-meta-tiktok
 License: CC0 Public Domain
 
 ---
@@ -159,11 +162,8 @@ npm run build
 
 # Future Improvements
 
-* Add filtering by date ranges
 * Add platform comparison view
 * Add downloadable reports
-* Connect to live marketing APIs
-* Add predictive marketing analytics
 
 ---
 
