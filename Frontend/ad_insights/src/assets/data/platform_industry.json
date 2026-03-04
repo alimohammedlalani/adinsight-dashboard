@@ -1,0 +1,107 @@
+[
+  {
+    "platform":"Google Ads",
+    "industry":"E-commerce",
+    "ad_spend":1086590.0,
+    "revenue":4021404.29,
+    "ROAS":3.7009399037
+  },
+  {
+    "platform":"Google Ads",
+    "industry":"EdTech",
+    "ad_spend":1280698.01,
+    "revenue":4581077.0,
+    "ROAS":3.5770157869
+  },
+  {
+    "platform":"Google Ads",
+    "industry":"Fintech",
+    "ad_spend":1362038.01,
+    "revenue":5033529.9100000001,
+    "ROAS":3.6955869609
+  },
+  {
+    "platform":"Google Ads",
+    "industry":"Healthcare",
+    "ad_spend":1292613.3100000001,
+    "revenue":4033233.6299999999,
+    "ROAS":3.120216695
+  },
+  {
+    "platform":"Google Ads",
+    "industry":"SaaS",
+    "ad_spend":1327329.5800000001,
+    "revenue":4364500.1200000001,
+    "ROAS":3.2881811615
+  },
+  {
+    "platform":"Meta Ads",
+    "industry":"E-commerce",
+    "ad_spend":409120.81,
+    "revenue":2034150.28,
+    "ROAS":4.9720039418
+  },
+  {
+    "platform":"Meta Ads",
+    "industry":"EdTech",
+    "ad_spend":441250.76,
+    "revenue":2745051.1000000001,
+    "ROAS":6.2210682651
+  },
+  {
+    "platform":"Meta Ads",
+    "industry":"Fintech",
+    "ad_spend":427253.02,
+    "revenue":2063789.9299999999,
+    "ROAS":4.8303694378
+  },
+  {
+    "platform":"Meta Ads",
+    "industry":"Healthcare",
+    "ad_spend":445677.15,
+    "revenue":2901099.2599999998,
+    "ROAS":6.5094188921
+  },
+  {
+    "platform":"Meta Ads",
+    "industry":"SaaS",
+    "ad_spend":382759.93,
+    "revenue":2181955.2200000002,
+    "ROAS":5.7005842278
+  },
+  {
+    "platform":"TikTok Ads",
+    "industry":"E-commerce",
+    "ad_spend":428276.27,
+    "revenue":3581725.1200000001,
+    "ROAS":8.3631183208
+  },
+  {
+    "platform":"TikTok Ads",
+    "industry":"EdTech",
+    "ad_spend":575029.75,
+    "revenue":4223806.3300000001,
+    "ROAS":7.3453700961
+  },
+  {
+    "platform":"TikTok Ads",
+    "industry":"Fintech",
+    "ad_spend":482246.7,
+    "revenue":3075991.3900000001,
+    "ROAS":6.3784602155
+  },
+  {
+    "platform":"TikTok Ads",
+    "industry":"Healthcare",
+    "ad_spend":520393.46,
+    "revenue":3996481.1499999999,
+    "ROAS":7.679729776
+  },
+  {
+    "platform":"TikTok Ads",
+    "industry":"SaaS",
+    "ad_spend":647472.33,
+    "revenue":5345536.0800000001,
+    "ROAS":8.2560069864
+  }
+]
